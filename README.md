@@ -21,7 +21,7 @@ Efetuar um git clone no projeto https://github.com/pauloazedo/fiap-sre-trabalhof
 
 Pronto, já temos todos os arquivos que iremos precisar para executar todo o projeto.
 
-Criaremos uma rede para os nossos serviços chamada monitoring e criar um volume externo para salvarmos os dados e configurações das aplicações, prevenindo a perda de dados quando os containers forem reiniciados. Utilizar uma rede própria é uma boa prática para isolar os conteiners que pertencem ao mesmo projeto:
+Criaremos uma rede para os nossos serviços chamada **monitoring** e criaremos também um volume externo para cada container para salvarmos seus dados e configurações, previnindo a perda de dados quando os containers forem reiniciados. Utilizar uma rede própria é uma boa prática para isolar os containers que pertencem ao mesmo projeto:
 
     $ docker network create monitoring
 
@@ -142,3 +142,11 @@ Pronto! Temos agora um dashboard com vários dados coletados em tempo real do se
 
 ![](https://github.com/pauloazedo/fiap-sre-trabalhofinal/blob/master/imagens/24.png?raw=true)
 ![](https://github.com/pauloazedo/fiap-sre-trabalhofinal/blob/master/imagens/25.png?raw=true)
+
+## Integrantes do grupo:
+
+Paulo Henrique Azedo		RM 334771
+André				RM 334728
+Fernando Martins Pereira	RM 333824
+Fernando Batista de França	RM 334078
+
