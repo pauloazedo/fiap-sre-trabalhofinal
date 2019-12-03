@@ -3,7 +3,7 @@
 
 Este é o trabalho de conclusão da matéria de SRE do curso DevOps Engineering da FIAP. como Grafana, Docker e Telegraf com Influxdb.
 
-Usaremos o Docker para uma rápida implementação em qualquer ambiente Docker, uma base de dados no Influxdb para armazenar nossas métricas coletadas e o Telegraf como agente no sistema monitorado remoto, e para visualizarmos os dados coletados através de Dashboards, utilizaremos o Grafana.
+Utilizaremos o Docker para uma rápida implementação em qualquer ambiente Docker, uma base de dados no Influxdb para armazenar nossas métricas coletadas e o Telegraf como agente no sistema monitorado remoto, e para visualizarmos os dados coletados através de Dashboards, utilizaremos o Grafana.
 
 Este passo a passo foi desenvolvido e testado em abiente Linux, distribuição CentOS 7 com a instalação padrão do Docker.
 
