@@ -146,7 +146,9 @@ Pronto! Temos agora um dashboard com vários dados coletados em tempo real do se
 ## Integrantes do grupo:
 
 Paulo Henrique Azedo		RM 334771
-André				RM 334728
-Fernando Martins Pereira	RM 333824
-Fernando Batista de França	RM 334078
 
+André				RM 334728
+
+Fernando Martins Pereira	RM 333824
+
+Fernando Batista de França	RM 334078
